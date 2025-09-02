@@ -2,7 +2,10 @@
 
 
 == Video tutorial :
-https://youtu.be/Ut6mwZ9CdL0
+https://youtu.be/4ip3G7DRASc
+
 
 == Android app
 Install `LineTrimmer` app from link:2025-09-01-LineTrimmer.apk[2025-09-01-LineTrimmer.apk]
+
+Thanks D. Oddie for this awsome app.
