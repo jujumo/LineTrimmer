@@ -1,3 +1,8 @@
 = LineTrimmer
 
+
+== Video tutorial :
 https://youtu.be/Ut6mwZ9CdL0
+
+== Android app
+Install `LineTrimmer` app from link:2025-09-01-LineTrimmer.apk[2025-09-01-LineTrimmer.apk]
